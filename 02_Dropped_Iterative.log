@@ -1,0 +1,5 @@
+INFO:__main__:Train data load completed. Time elapsed: 7.86 seconds
+INFO:__main__:Missing values and categorical columns treatment completed. Time elapsed: 39.83 seconds
+INFO:__main__:Train test split completed. Time elapsed: 43.43 seconds
+INFO:__main__:Evaluating Logistic Regression
+INFO:__main__:Skipping feature selection for Logistic Regression due to lack of support

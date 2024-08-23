@@ -1,0 +1,9 @@
+INFO:__main__:Train data load completed. Time elapsed: 15.00 seconds
+INFO:__main__:Missing values and categorical columns treatment completed. Time elapsed: 64.04 seconds
+INFO:__main__:Train test split completed. Time elapsed: 70.29 seconds
+INFO:root:Starting cross-validation process
+INFO:__main__:Time elapsed: 71.45 seconds
+INFO:root:Performing cross-validation for Bagging Classifier
+INFO:__main__:Train data load completed. Time elapsed: 17.46 seconds
+INFO:__main__:Train data load completed. Time elapsed: 10.14 seconds
+INFO:__main__:Train data load completed. Time elapsed: 10.92 seconds
